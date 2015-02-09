@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Cellular Transport** <span id="10"></span> 
 *Just as your body has a circulatory system that moves nutrients and
 waste, every cell in your body has a vast network system that carries

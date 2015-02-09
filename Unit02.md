@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Cell Membrane** <span id="2"></span> 
 *Organisms must be able to maintain homeostasis, or a constant internal
 environment, in order to survive. Cells achieve homeostasis by creating

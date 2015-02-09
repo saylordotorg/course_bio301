@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Cytoskeleton** <span id="5"></span> 
 *The cytoskeleton, as the name suggests, provides the physical support
 for the interior of the cell. You might think of it as cellular

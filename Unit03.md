@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Cell Signaling** <span id="3"></span> 
 *Cells must be able to adapt to changes in the external environment.
 Cells in multicellular organisms must even be able to communicate with

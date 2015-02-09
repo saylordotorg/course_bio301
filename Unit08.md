@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Meiosis** <span id="8"></span> 
 *Meiosis, the other form of cell division, is the process by which one
 cell becomes four genetically unique cells. This process is essential to

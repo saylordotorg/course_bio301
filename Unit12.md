@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Apoptosis** <span id="12"></span> 
 *Apoptosis, or programmed cell death, is an orderly series of events
 that lead to the death of a cell in multicellular organisms. This is a

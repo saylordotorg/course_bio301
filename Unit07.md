@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Mitosis and Cytokinesis** <span id="7"></span> 
 *Every cell in your body has the capacity to divide and make new cells.
 Mitosis is the process by which one cell turns into two identical cells.

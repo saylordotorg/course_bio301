@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Specialized Organelle Functions** <span id="11"></span> 
 *This unit will discuss the special functions of certain cell
 organelles. You might think of organelles as specialized organs that

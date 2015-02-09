@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Cell Cycle** <span id="9"></span> 
 *Both meiosis and mitosis represent one phase of the cell cycle, which
 is an ordered set of events that a cell undergoes in preparation for

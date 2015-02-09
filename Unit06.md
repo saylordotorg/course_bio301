@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Cell Nucleus and Gene Expression** <span id="6"></span> 
 *As you learned in BIO101, the cell nucleus is the storage area for all
 genetic material and constantly full of activity. The nucleus, in fact,

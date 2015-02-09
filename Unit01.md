@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO301: Cell Biology"
+course_description: "A detailed exploration of the cell and its structures, including molecular compounds, structural features, and organelles including the nucleus, cytoskeleton, and extracellular matrix. Particular emphasis on transport mechanisms and membrane trafficking, cellular signaling, the cell cycle including mitosis and meiosis, and gene expression."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Review of Basic Concepts** <span id="1"></span> 
 *This unit reintroduces concepts you learned in your introductory
 biology and chemistry courses. It should serve as a refresher for those
