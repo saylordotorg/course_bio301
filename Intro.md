@@ -156,3 +156,4 @@ complete.
 - [Unit 10](https://legacy.saylor.org/bio301/Unit10/)
 - [Unit 11](https://legacy.saylor.org/bio301/Unit11/)
 - [Unit 12](https://legacy.saylor.org/bio301/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO301/BIO301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO301/BIO301-FinalExam-Answers.html)
