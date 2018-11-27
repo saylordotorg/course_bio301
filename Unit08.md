@@ -82,8 +82,8 @@ Upon completion of this unit, you will be able to
 **8.1 Meiotic Prophase** <span id="8.1"></span> 
 -   **Web Media: The Saylor Foundation’s “Figure 8.1”**
     Link: The Saylor
-    Foundation’s [“](http://www.saylor.org/site/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png)[Figure
-    8.1](http://www.saylor.org/site/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png)[”](http://www.saylor.org/site/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png) (PNG)  
+    Foundation’s [“](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png)[Figure
+    8.1](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/BIO301-Subunit8.1-Figure.png) (PNG)  
         
      Instructions: Please open The Saylor Foundation’s Figure 8.1. Note
     this subunit is covered by the reading and video assigned beneath
