@@ -517,9 +517,9 @@ reading.*
 
 -   **Assessment: The Saylor Foundation's “Unit 5 Quiz”**
     Link: The Saylor Foundation's
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/10/BIO301-Unit-5-Quiz-FINAL.pdf)[Unit
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/BIO301-Unit-5-Quiz-FINAL.pdf)[Unit
     5
-    Quiz](http://school.saylor.org/mod/quiz/view.php?id=1755)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/BIO301-Unit-5-Quiz-FINAL.pdf)
+    Quiz](http://school.saylor.org/mod/quiz/view.php?id=1755)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/BIO301-Unit-5-Quiz-FINAL.pdf)
     (HTML)  
         
      Instructions: Complete the linked quiz to test your knowledge of
